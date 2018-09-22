@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(
       title: 'Baby Names',
-      home: const MyHomePage(title: 'Vote o nome para o bebe'),
+      home: const MyHomePage(title: 'Vote o nome do o bebe'),
     );
   }
 }
